@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="button_maybe">Maybe</string>
+    <string name="textView_name">Attending ?? </string>
+    <string name="text_given_sb">What\'s your pain level in scale of 1 to 100 ?</string>
+    <string name="hideseek">Hide and Seek</string>
+    <string name="toggle_result">Vivek Gouda</string>
+</resources>

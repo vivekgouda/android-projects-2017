@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First Firebase Project</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="signout">sign out</string>
+    <string name="create_acc">Create Account</string>
+</resources>

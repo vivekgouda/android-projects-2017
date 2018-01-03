@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="20dp"
+            android:background="@color/colorPrimaryDark">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="First Name"
+                android:textSize="22sp"/>
+
+
+            <TextView
+                android:id="@+id/surname"
+                android:paddingLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Last Name"
+                android:textSize="22sp"/>
+
+            <TextView
+                android:id="@+id/age"
+                android:paddingLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Age"
+                android:textSize="22sp"/>
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorAccent">
+
+            <TextView
+                android:id="@+id/vivek"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vivek"
+                android:textSize="22sp"/>
+
+
+            <TextView
+                android:id="@+id/gouda"
+                android:paddingLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gouda"
+                android:textSize="22sp"/>
+
+            <TextView
+                android:id="@+id/myAge"
+                android:paddingLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20"
+                android:textSize="22sp"/>
+
+
+        </TableRow>
+
+
+
+    </TableLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="My name is Vivek Gouda From India means developing country so how can i get a financial aid for learning Programming for Everybody (Getting Started with Python) course. I am student and I don't have any special source of income I was in governmental school which means that i had a free educational in my country." />
+    </ScrollView>
+</RelativeLayout>

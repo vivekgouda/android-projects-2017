@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "572851970622",
+    "firebase_url": "https://myblogapp-df574.firebaseio.com",
+    "project_id": "myblogapp-df574",
+    "storage_bucket": "myblogapp-df574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572851970622:android:531b388c6e211cd7",
+        "android_client_info": {
+          "package_name": "com.gouda.vivek.myblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572851970622-h86r295bvrj29p5a3sq69ki3ldfsqo5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gouda.vivek.myblogapp",
+            "certificate_hash": "37129a836732a22396328c9af2f3714c80d9d686"
+          }
+        },
+        {
+          "client_id": "572851970622-120g0ri14tlji3jrk0g1bs4e4v8mu5c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1yEqScnpJyZChK2vwMYBWaDUlltExMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572851970622-120g0ri14tlji3jrk0g1bs4e4v8mu5c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

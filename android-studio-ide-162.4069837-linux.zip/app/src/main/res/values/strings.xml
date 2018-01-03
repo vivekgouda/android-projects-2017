@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="text_name">Hello Friends</string>
+    <string name="Text2">This is my First Andriod Application</string>
+    <string name="button_name">My Button</string>
+</resources>

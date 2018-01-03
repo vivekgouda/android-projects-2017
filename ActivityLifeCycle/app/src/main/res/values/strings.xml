@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLifeCycle</string>
+    <string name="text_name">Activity Life Cycle</string>
+    <string name="activities">1.onCreate<br/> </string>
+</resources>
